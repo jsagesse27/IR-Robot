@@ -7,8 +7,6 @@ int motor_1 = 6;
 int motor2 = 9;
 int motor_2 = 10;
 int IR = A0;
-int distance = 0;
-int speaker = 3
 
 void setup()
 {
@@ -129,4 +127,3 @@ void loop()
      //end else if
   } //end if
 } //end loop()
-
